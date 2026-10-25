@@ -27,7 +27,11 @@ This project focuses on analyzing Vrinda Store's sales data using Microsoft Exce
 
 ## 📁 Project File
 
-**Excel Dashboard:** `Vrinda Store Sales & Customer Analytics Dashboard 2025.xlsx`
+**Excel Dashboard:** Vrinda Store Sales & Customer Analytics Dashboard 2025.xlsx.
+
+## 📊 Dashboard Preview
+![Vrinda Store Sales Dashboard](Excel%20Sales%20%26%20Customer%20Analytics%20Dashboard.png)
+
 
 ## 💡 Key Learnings
 
@@ -39,6 +43,5 @@ This project focuses on analyzing Vrinda Store's sales data using Microsoft Exce
 ## 👤 Author
 
 Sagar
-
 This project was created for learning and practicing data analysis using Microsoft Excel.
 
